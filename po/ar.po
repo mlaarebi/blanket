@@ -38,22 +38,21 @@ msgstr "تركيز;ركز;صوت;إنتاجية;نوم;"
 #, fuzzy
 msgid ""
 "Improve focus and increase your productivity by listening to different sounds"
-msgstr ""
-"حسن تركيزك وزد من إنتاجيتك عبر الاستماع إلىأصوات متنوعة. أو نم مستمعا إلى "
-"أصوات مريحة"
+msgstr "حسن تركيزك وزد من إنتاجيتك عبر الاستماع إلى أصوات متنوعة"
+
 
 #: data/com.rafaelmardojai.Blanket.metainfo.xml.in:10
 msgid "Also can help you to fall asleep in a noisy environment."
-msgstr ""
+msgstr "يمكنها أيضا مساعدتك على النوم في الأماكن كثيرة الضجيج"
 
 #: data/com.rafaelmardojai.Blanket.metainfo.xml.in:11
 #, fuzzy
 msgid "Features:"
-msgstr "طبيعة"
+msgstr "مميزات"
 
 #: data/com.rafaelmardojai.Blanket.metainfo.xml.in:13
 msgid "Save presets"
-msgstr ""
+msgstr "حفظ الإعدادات المسبقة"
 
 #: data/com.rafaelmardojai.Blanket.metainfo.xml.in:14
 #, fuzzy
@@ -67,11 +66,11 @@ msgstr "الاشتغال التلقائي في الخلفية"
 
 #: data/com.rafaelmardojai.Blanket.metainfo.xml.in:16
 msgid "MPRIS integration"
-msgstr ""
+msgstr "إضافة MPRIS"
 
 #: data/com.rafaelmardojai.Blanket.metainfo.xml.in:18
 msgid "Included Sounds:"
-msgstr ""
+msgstr "الأصوات المضافة"
 
 #: data/com.rafaelmardojai.Blanket.metainfo.xml.in:20 blanket/window.py:40
 #: blanket/about.py:24 blanket/about.py:35
@@ -151,19 +150,19 @@ msgstr "Rafael Mardojai CM"
 #: data/com.rafaelmardojai.Blanket.gschema.xml:42
 msgctxt "visible-name"
 msgid "'Default'"
-msgstr ""
+msgstr "'الإعدادات الأصلية'"
 
 #: data/resources/window.ui:63
 msgid "Presets"
-msgstr ""
+msgstr "الإعدادات المسبقة"
 
 #: data/resources/window.ui:71
 msgid "Add Preset…"
-msgstr ""
+msgstr "إضافة إعدادات مسبقة"
 
 #: data/resources/window.ui:77
 msgid "Reset Volume Levels"
-msgstr ""
+msgstr "إعادة مستوى الصوت إلى الحالة الأصلية"
 
 #: data/resources/window.ui:83
 #, fuzzy
@@ -188,11 +187,11 @@ msgstr "خروج"
 
 #: data/resources/preferences.ui:12
 msgid "Appearance"
-msgstr ""
+msgstr "المظهر"
 
 #: data/resources/preferences.ui:15
 msgid "Dark Mode"
-msgstr ""
+msgstr "النمط المظلم"
 
 #: data/resources/preferences.ui:28
 msgid "Behavior"
@@ -205,7 +204,7 @@ msgstr "الاشتغال التلقائي في الخلفية"
 
 #: data/resources/preset-dialog.ui:23
 msgid "Cancel"
-msgstr ""
+msgstr "إلغاء"
 
 #: data/resources/preset-dialog.ui:55
 msgid "Preset Name"
